@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioDialog</string>
+
+    <string-array name="options">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+
+
+</resources>
